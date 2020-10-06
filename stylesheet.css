@@ -1,0 +1,190 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'SF-text';
+   src:url(SF-Pro-Text-Ultraligh.woff)format("woff");
+}
+
+@font-face {
+  font-family:'SF-dis';
+   src:url(/SF-Pro-Display-Ultralight.woff)format("woff");
+}
+
+@font-face {
+  font-family:'hiraginoW0';
+   src:url("ヒラギノ角ゴシック W0.woff")format("woff");
+}
+
+@font-face {
+  font-family:'hiraginoW1';
+   src:url("ヒラギノ角ゴシック W1.woff")format("woff");
+}
+
+header{
+  display: none;
+}
+
+.top{
+  position:relative;;
+  width: 100%;
+}
+
+.background{
+  display: block;
+  width: 100%;
+}
+
+.background_SMP{
+  display: none;
+  width: 100%;
+}
+
+.background video{
+  display: block;
+  width: 100%;
+}
+
+.background_SMP video{
+  display: none;
+  width: 100%;
+}
+
+.title{
+  position: absolute;
+  z-index: 999;
+  width: 50%;
+  top:15%;
+  left:25%;
+}
+
+.title video{
+  width: 100%;
+  position: absolute;
+  z-index: 999;
+}
+
+.fadeIn {
+ opacity: 0;
+ transform : translate(0, 50px);
+ transition : all 2000ms;
+}
+
+.fadeIn.scrollIn{
+ opacity: 1;
+ transform: translate(0, 0);
+}
+
+footer{
+  margin-top: 15%;
+}
+
+.copyright {
+  width: 100%;
+  text-align: center;
+}
+
+.copyright a{
+  text-decoration: none;
+}
+
+.copyright p {
+font-family:'hiraginoW0';
+  font-weight:100;
+  font-size: 100%;
+}
+
+
+/*tablet*//*tablet*//*tablet*//*tablet*//*tablet*//*tablet*//*tablet*//*tablet*//*tablet*//*tablet*//*tablet*/
+@media(max-width:1500px){
+
+.skill{
+  margin-top: 80%;
+}
+
+.comment p{
+  font-size: 80%;
+}
+
+}
+/*SMP*//*SMP*//*SMP*//*SMP*//*SMP*//*SMP*//*SMP*//*SMP*//*SMP*//*SMP*//*SMP*//*SMP*//*SMP*/
+@media(max-width:1000px){
+
+header{
+  display: block;
+  height:0px;
+}
+
+  .background{
+    display: none;
+  }
+
+  .background_SMP{
+    display: block;
+    width: 100%;
+  }
+
+  .background video{
+    display: none;
+  }
+
+  .background_SMP video{
+    display: block;
+    width: 100%;
+  }
+
+  .title{
+    top:10%;
+  }
+
+  .work p{
+    font-size: 120%;
+  }
+
+  .HP,.App,.Dim,.Animation,.Drawing,.Music{
+    width: 100%;
+  }
+
+  .comment{
+    padding-bottom: 15%;
+  }
+
+  .comment p{
+    font-size: 70%;
+  }
+
+  #skillTitle{
+    font-size: 120%;
+  }
+
+  .skill{
+    margin-top: 120%;
+  }
+
+  .skill p{
+    font-size: 70%;
+  }
+
+  #contactTitle{
+    font-size: 120%;
+  }
+
+  .contact{
+    margin-top: 20%;
+    margin-bottom: 40%;
+  }
+
+  .contact p{
+    font-size: 70%;
+  }
+
+  footer{
+    margin-top: 20%;
+  }
+
+  .copyright p {
+    font-size: 80%;
+  }
+
+}
