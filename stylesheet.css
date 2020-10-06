@@ -31,7 +31,8 @@ header{
 }
 
 #menu li {
-  text-decoration:none;
+  list-style: none;
+  float: left;
 }
 
 .fadeIn {
