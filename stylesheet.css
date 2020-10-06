@@ -26,45 +26,6 @@ header{
   height:10%;
 }
 
-.top{
-  position:relative;;
-  width: 100%;
-}
-
-.background{
-  display: block;
-  width: 100%;
-}
-
-.background_SMP{
-  display: none;
-  width: 100%;
-}
-
-.background video{
-  display: block;
-  width: 100%;
-}
-
-.background_SMP video{
-  display: none;
-  width: 100%;
-}
-
-.title{
-  position: absolute;
-  z-index: 999;
-  width: 50%;
-  top:15%;
-  left:25%;
-}
-
-.title video{
-  width: 100%;
-  position: absolute;
-  z-index: 999;
-}
-
 .fadeIn {
  opacity: 0;
  transform : translate(0, 50px);
