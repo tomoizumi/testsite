@@ -27,10 +27,10 @@ header{
 }
 
 .headContents {
-  float:left;
+  display: flex;
 }
 
-#menu li{
+#menu li {
   text-decoration:none;
 }
 
