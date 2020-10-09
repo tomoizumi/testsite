@@ -35,17 +35,6 @@ header{
   float: left;
 }
 
-.fadeIn {
- opacity: 0;
- transform : translate(0, 50px);
- transition : all 2000ms;
-}
-
-.fadeIn.scrollIn{
- opacity: 1;
- transform: translate(0, 0);
-}
-
 footer{
   margin-top: 15%;
 }
