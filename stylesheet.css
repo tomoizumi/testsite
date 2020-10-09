@@ -37,11 +37,11 @@ header{
 }
 
 .top {
+  text-align: center;
   height: 80vw;
 }
 
 .background img {
-  text-align: center;
   width:80vw;
 }
 
