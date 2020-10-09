@@ -35,6 +35,10 @@ header{
   float: left;
 }
 
+.top {
+  height: 80vw;
+}
+
 .background img {
   width:80vw;
 }
