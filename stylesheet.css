@@ -32,7 +32,7 @@ header{
 }
 
 .logo img {
-  font-size: 50%;
+  width: 10vw;
   margin-right: 7vw;
 }
 
@@ -76,7 +76,7 @@ header{
 }
 
 .aboutRight img {
-  font-size: 50%;
+  width: 100%;
 }
 
 footer{
