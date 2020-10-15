@@ -31,8 +31,14 @@ header{
   display: flex;
 }
 
+.logo img {
+  font-size: 100%;
+  margin-right: 7vw;
+}
+
 #menu li {
   list-style: none;
+  text-decoration: none;
   float: left;
   margin-right: 5vw;
   font-size: 200%;
