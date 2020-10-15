@@ -39,10 +39,13 @@ header{
 #menu li {
   font-family:'SF-text';
   list-style: none;
-  text-decoration: none;
   float: left;
   margin-right: 5vw;
   font-size: 200%;
+}
+
+#menu li a {
+  text-decoration: none;
 }
 
 .top {
