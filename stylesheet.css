@@ -54,12 +54,13 @@ header{
 
 .background img {
   width:80vw;
-  margin-bottom: 10vw;
+  margin-bottom: 15vw;
 }
 
 .aboutLeft {
+  display: flex;
   width: 45vw;
-  margin-left: 5vw;
+  margin-left: 7vw;
 }
 
 #aboutTitle {
@@ -67,7 +68,7 @@ header{
   font-size: 250%;
 }
 
-#aboutTitle p {
+.aboutLeft p {
   font-family:'hiraginoW0';
 }
 
