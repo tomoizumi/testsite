@@ -143,6 +143,11 @@ header{
   width: 90%;
 }
 
+#contactTitle {
+  font-family:'SF-text';
+  font-size: 250%;
+}
+
 footer{
   margin-top: 15%;
 }
