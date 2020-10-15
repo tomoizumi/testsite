@@ -24,6 +24,7 @@
 
 header{
   height:10vw;
+  width: 100vw;
 }
 
 .headContents {
@@ -33,7 +34,8 @@ header{
 #menu li {
   list-style: none;
   float: left;
-  margin-right: 5%;
+  margin-right: 5vw;
+  font-size: 200%;
 }
 
 .top {
