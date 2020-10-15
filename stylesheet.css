@@ -75,6 +75,10 @@ header{
   width: 45vw;
 }
 
+.aboutRight img {
+  font-size: 50%;
+}
+
 footer{
   margin-top: 15%;
 }
