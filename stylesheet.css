@@ -143,6 +143,10 @@ header{
   width: 90%;
 }
 
+.contact {
+  margin-bottom: 7vw;
+}
+
 #contactTitle {
   font-family:'SF-text';
   font-size: 250%;
