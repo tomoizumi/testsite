@@ -61,7 +61,7 @@ header{
 
 .about {
   display: flex;
-  margin-bottom: 15vw;
+  margin-bottom: 7vw;
 }
 
 .aboutLeft {
@@ -89,7 +89,7 @@ header{
 
 .contents {
   display: flex;
-  margin-bottom: 15vw;
+  margin-bottom: 7vw;
 }
 
 .contentsLeft {
@@ -113,7 +113,7 @@ header{
 
 .plofile {
   display: flex;
-  margin-bottom: 15vw;
+  margin-bottom: 7vw;
 }
 
 .plofileLeft {
