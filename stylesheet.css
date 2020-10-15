@@ -106,6 +106,10 @@ header{
   font-size: 250%;
 }
 
+.contentsRight {
+  width: 40vw;
+}
+
 .contentsRight p {
   font-family:'hiraginoW0';
   font-size: 150%;
