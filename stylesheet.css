@@ -56,12 +56,22 @@ header{
   width:80vw;
 }
 
+.aboutLeft {
+  width: 45vw;
+  margin-left: 5vw;
+}
+
 #aboutTitle {
   font-family:'SF-text';
+  font-size: 200%;
 }
 
 #aboutTitle p {
   font-family:'hiraginoW0';
+}
+
+.aboutRight {
+  width: 45vw;
 }
 
 footer{
