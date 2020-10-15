@@ -111,6 +111,34 @@ header{
   font-size: 150%;
 }
 
+.plofile {
+  display: flex;
+  margin-bottom: 15vw;
+}
+
+.plofileLeft {
+  width: 45vw;
+  margin-left: 7vw;
+}
+
+#plofileTitle {
+  font-family:'SF-text';
+  font-size: 250%;
+}
+
+.plofileLeft p {
+  font-family:'hiraginoW0';
+  font-size: 150%;
+}
+
+.plofileRight {
+  width: 40vw;
+}
+
+.plofileRight img {
+  width: 90%;
+}
+
 footer{
   margin-top: 15%;
 }
