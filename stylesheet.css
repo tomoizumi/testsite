@@ -39,7 +39,6 @@ header{
 
 #menu li {
   font-family:'SF-text';
-  color: #000000;
   list-style: none;
   float: left;
   margin-right: 5vw;
@@ -48,6 +47,7 @@ header{
 
 #menu li a {
   text-decoration: none;
+  color: #000000;
 }
 
 .top {
