@@ -37,6 +37,7 @@ header{
 }
 
 #menu li {
+  font-family:'SF-text';
   list-style: none;
   text-decoration: none;
   float: left;
@@ -50,6 +51,14 @@ header{
 
 .background img {
   width:80vw;
+}
+
+#aboutTitle {
+  font-family:'SF-text';
+}
+
+#aboutTitle p {
+  font-family:'hiraginoW0';
 }
 
 footer{
