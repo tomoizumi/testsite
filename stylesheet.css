@@ -59,6 +59,7 @@ header{
 
 .about {
   display: flex;
+  margin-bottom: 15vw;
 }
 
 .aboutLeft {
@@ -82,6 +83,30 @@ header{
 
 .aboutRight img {
   width: 90%;
+}
+
+.contents {
+  display: flex;
+  margin-bottom: 15vw;
+}
+
+.contentsLeft {
+  width: 40vw;
+  margin-left: 7vw;
+}
+
+.contentsLeft img {
+  width: 90%;
+}
+
+#contentsTitle {
+  font-family:'SF-text';
+  font-size: 250%;
+}
+
+.contentsRight p {
+  font-family:'hiraginoW0';
+  font-size: 100%;
 }
 
 footer{
