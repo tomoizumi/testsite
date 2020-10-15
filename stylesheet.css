@@ -39,6 +39,7 @@ header{
 
 #menu li {
   font-family:'SF-text';
+  color: #000000;
   list-style: none;
   float: left;
   margin-right: 5vw;
