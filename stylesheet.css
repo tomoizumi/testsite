@@ -57,8 +57,11 @@ header{
   margin-bottom: 15vw;
 }
 
-.aboutLeft {
+.about {
   display: flex;
+}
+
+.aboutLeft {
   width: 45vw;
   margin-left: 7vw;
 }
