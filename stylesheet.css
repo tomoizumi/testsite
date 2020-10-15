@@ -69,12 +69,10 @@ header{
 #aboutTitle {
   font-family:'SF-text';
   font-size: 250%;
-  word-wrap: normal;
 }
 
 .aboutLeft p {
   font-family:'hiraginoW0';
-  word-wrap: normal;
 }
 
 .aboutRight {
