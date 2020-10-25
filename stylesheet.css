@@ -50,6 +50,27 @@ header{
   color: #000000;
 }
 
+#menu a::before,
+#menu a::after {
+  border-bottom: solid 1px #000000;
+  bottom: 0;
+  content: '';
+  position: absolute;
+  display: flex;
+  transition: all .3s ease;
+  width: 0;
+}
+#menu a::before {
+  left: 50%;
+}
+#menu a::after {
+  right: 50%;
+}
+#menu a:hover::before,
+#menu a:hover::after {
+  width: 50%;
+}
+
 .top {
   text-align: center;
 }
