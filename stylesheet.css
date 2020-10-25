@@ -32,15 +32,17 @@ header{
 }
 
 .logo img {
+  text-align: left;
   width: 15vw;
   margin-left: 0vw;
-  margin-right: 25vw;
+
 }
 
 #menu li {
   font-family:'SF-text';
   list-style: none;
   float: left;
+  text-align: right;
   margin-right: 5vw;
   font-size: 200%;
 }
