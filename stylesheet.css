@@ -81,6 +81,7 @@ header{
 }
 
 .topAnimation souce {
+  position:absolute;
   width:80vw;
   z-index: 999;
 }
