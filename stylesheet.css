@@ -182,17 +182,23 @@ header{
 }
 
 .contact {
-  margin-bottom: 7vw;
+  margin-bottom: 5vw;
 }
 
 #contactTitle {
   font-family:'SF-text';
   font-size: 250%;
   text-align: center;
+  margin-bottom: 5vw;
 }
 
 .contactInput {
   text-align: center;
+}
+
+.contactInput p {
+  font-family:'hiraginoW0';
+  font-size: 150%;
 }
 
 footer{
