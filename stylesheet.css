@@ -75,12 +75,12 @@ header{
   text-align: center;
 }
 
-.background img {
+.top img {
   width:80vw;
   margin-bottom: 15vw;
 }
 
-.topAnimation souce {
+.top souce {
   position:absolute;
   width:80vw;
   z-index: 999;
