@@ -192,6 +192,10 @@ header{
   text-align: center;
 }
 
+.contactInput {
+  text-align: center;
+}
+
 footer{
   margin-top: 15%;
 }
