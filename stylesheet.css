@@ -31,18 +31,24 @@ header{
   display: flex;
 }
 
-.logo img {
+.logo {
   text-align: left;
+}
+
+.logo img {
   width: 15vw;
   margin-left: 0vw;
 
+}
+
+#menu {
+  text-align: right;
 }
 
 #menu li {
   font-family:'SF-text';
   list-style: none;
   float: left;
-  text-align: right;
   margin-right: 5vw;
   font-size: 200%;
 }
